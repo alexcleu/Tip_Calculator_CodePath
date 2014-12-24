@@ -3,7 +3,7 @@ Tip_Calculator
 
 This is a Tip_Calculator application for displaying the amount of tip given with the tip percentage with swift. 
 
-Time spent: 4 hours spent in total. 
+Time spent: 8 hours spent in total. 
 
 Completed user stories:
 * [x] Required: Developed a Tip Calculator App. 
