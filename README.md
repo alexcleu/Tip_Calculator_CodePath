@@ -19,3 +19,5 @@ Walkthrough of all user stories:
 ![Video Walkthrough](https://github.com/alexcleu/Tip_Calculator_CodePath/blob/master/Tip%20Calculator.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
+
+This App is made possible by Timothy Lee and the CodePath Tutorials. 
